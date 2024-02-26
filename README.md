@@ -1,1 +1,1 @@
-# Instrument-Huma-Error-Analysis
+# Instrument-Human-Error-Analysis
